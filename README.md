@@ -1,4 +1,4 @@
-# Reproducible analysis example - Python 2
+# Reproducible analysis example - Python 3
 
 This is an example project repository to illustrate what a reproducible analysis might look like as discussed in more detail in the [Reproducibility in Cancer Informatics course](https://github.com/jhudsl/Reproducibility_in_Cancer_Informatics).  
 It can be used as a template or otherwise borrowed from.
